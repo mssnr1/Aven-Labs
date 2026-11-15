@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="250" x2="0" y2="400"><stop offset="0" stop-color="#c7bbff"/><stop offset=".55" stop-color="#ffc2d6"/><stop offset="1" stop-color="#fcd38d"/></linearGradient>
+<radialGradient id="a" cx=".5" cy=".62" r=".5"><stop offset="0" stop-color="#6f5cf0" stop-opacity=".45"/><stop offset="1" stop-color="#0b0f16" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><circle cx="256" cy="256" r="150"/></clipPath></defs>
+<rect width="512" height="512" fill="#0b0f16"/><rect width="512" height="512" fill="url(#a)"/>
+<g clip-path="url(#c)" stroke="url(#g)" stroke-width="9" stroke-linecap="round">
+<g id="l"></g>
+<line x1="80" y1="262" x2="432" y2="262"/><line x1="80" y1="288" x2="432" y2="288"/><line x1="80" y1="314" x2="432" y2="314"/><line x1="80" y1="340" x2="432" y2="340"/><line x1="80" y1="366" x2="432" y2="366"/><line x1="80" y1="392" x2="432" y2="392"/></g>
+<circle cx="256" cy="256" r="150" fill="none" stroke="#f1f0fa" stroke-width="11"/>
+</svg>
